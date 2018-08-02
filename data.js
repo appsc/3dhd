@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-360-test-hd_01",
-      "name": "360 Test HD_01",
+      "id": "0-360_r1-01",
+      "name": "360_R1-01",
       "levels": [
         {
           "tileSize": 256,
@@ -36,7 +36,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
